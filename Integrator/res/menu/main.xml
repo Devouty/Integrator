@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="devouty.integrator.MainActivity" >
+    <item android:id="@+id/btnAddGroup"
+        
+        android:title="添加分组">
+        
+    </item>
+    <item android:id="@+id/btnAddCell"
+        
+        android:title="添加条文">
+        
+    </item>
+
+</menu>
